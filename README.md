@@ -5,6 +5,6 @@
 SBCL
 Quicklisp
 
-...bash
+'''bash
 make 
-...
+'''
